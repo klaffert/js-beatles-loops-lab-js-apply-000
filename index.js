@@ -16,7 +16,7 @@ function johnLennonFacts (factsarray)
   "He hated the sound of his own voice"
 ]
 while (facts < 5) {
-  return 
+  return (`$
 }
 }
 
