@@ -17,6 +17,6 @@ function johnLennonFacts (jLFacts) {
 ]
 var exclaim = '!!!'
 while (facts > 5)
-facts.push(`${facts} + ${exclaim}`)
+facts.push(`${facts}${exclaim}`)
 return facts
 }
