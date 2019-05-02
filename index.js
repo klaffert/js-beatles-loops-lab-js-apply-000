@@ -8,15 +8,14 @@ function theBeatlesPlay(musicians,instruments) {
   return array
 }
 
-function johnLennonFacts (factsarray)
+function johnLennonFacts (factsArray) {
   const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ]
-while (facts < 5) {
-  return (`$
-}
+while (factsArray < 5)
+
 }
 
