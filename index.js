@@ -16,6 +16,6 @@ function johnLennonFacts (jLFacts) {
   "He hated the sound of his own voice"
 ]
 while (facts)
-facts.push("!!!") 
+jLFacts.push("!!!")
 return facts
 }
