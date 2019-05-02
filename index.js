@@ -15,5 +15,7 @@ function johnLennonFacts (jLFacts) {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ]
-return facts + "!!!"
+while (facts > 5)
+facts.push(`${facts} !!!`) 
+return facts
 }
