@@ -15,7 +15,7 @@ function johnLennonFacts (jLFacts) {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ]
-while (facts > 2
+while (facts > 2)
 facts.push("!!!") 
 return facts
 }
