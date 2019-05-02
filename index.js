@@ -15,8 +15,7 @@ function johnLennonFacts (jLFacts) {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ]
-var exclaim = '!!!'
 while (facts > 5)
-facts.push(`${facts}${exclaim}`)
+facts.push(`${facts}!!!`)
 return facts
 }
